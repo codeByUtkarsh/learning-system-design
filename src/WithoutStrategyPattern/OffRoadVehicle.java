@@ -4,6 +4,6 @@ public class OffRoadVehicle extends Vehicle{
 
     @Override
     public void drive(){
-        System.out.println("sports driving capability");
+        System.out.println("sports car driving capability");
     }
 }
