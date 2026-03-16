@@ -1,8 +1,8 @@
 package WithStrategyPattern;
 
-public class Main {
-    public static void main(String[] args){
-        Vehicle vehicle = new NormalCar();
-        vehicle.drive();
-    }
-}
+//public class Main {
+//    public static void main(String[] args){
+//        Vehicle vehicle = new NormalCar();
+//        vehicle.drive();
+//    }
+//}
